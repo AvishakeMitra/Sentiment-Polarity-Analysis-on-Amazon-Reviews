@@ -6,7 +6,7 @@ Put the 'databases.sqlite' into the data folder before executing the program.
 
 Important
 ----------
-1) Try to run the t-SNE with different 'perplexity' and check with different 'iteration' still we get stable condition.
+1) Try to run the t-SNE with different 'perplexity' and check with different 'iteration' still we you stable condition.
 2) It need sometime to execute the t-SNE depends upon the resources.
-3) If your system has less than 16GB RAM, reduce the sample size as required.
-4) Finally after preprocessing we left with around 30000 reviews.
+3) If your system has less than 16GB RAM, reduce the sample size as required else it will throw memory-error.
+4) Finally after preprocessing we left with around 36000 reviews.
